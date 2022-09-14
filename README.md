@@ -41,9 +41,9 @@ E
 B
 HELLO
 TURING
-(empty)
-(empty)
-(empty)
+ (blankspace)
+ (blankspace)
+ (blankspace)
 HELLO
 HELLO WORLD
 ```
